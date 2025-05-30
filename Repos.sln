@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPUWeb", "HPUTest\HPUWeb.csproj", "{48E213F9-67AF-BC46-4D48-AE910E32CD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E213F9-67AF-BC46-4D48-AE910E32CD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E213F9-67AF-BC46-4D48-AE910E32CD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E213F9-67AF-BC46-4D48-AE910E32CD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E213F9-67AF-BC46-4D48-AE910E32CD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FDA2D6A-2268-47C4-8CA0-8EC23C5D6E40}
+	EndGlobalSection
+EndGlobal
